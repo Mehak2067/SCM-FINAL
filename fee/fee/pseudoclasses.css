@@ -1,0 +1,17 @@
+.main h1::first-letter{
+    font-family:'Courier New', Courier, monospace;
+    color:aqua;
+    text-decoration: underline;
+    text-transform:uppercase;
+    text-shadow:3px 5px 2px green;
+}
+.main p{
+    color:red;
+    text-decoration:underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:large;
+    font-weight:100;
+    letter-spacing:normal;
+    text-shadow:3px 5px 2px yellow;
+
+}

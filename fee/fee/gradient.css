@@ -1,0 +1,62 @@
+#grad1{
+    height:300px;
+    background-image:linear-gradient(red,yellow);
+    width:100px;
+    display:inline-block;
+}
+#grad2{
+    background-image:radial-gradient(circle,red,yellow);
+    height:300px;
+    width:100px;
+    display:inline-block;
+}
+#grad3{
+    background-image:linear-gradient(blue 5%,yellow 10%,red 5%,green 15%);
+    height:300px;
+    width:100px;
+    display:inline-block;
+    
+}
+#grad4{
+    background-image:linear-gradient(closest-side at 50% 60%, blue 5%,yellow 10%,red 5%,green 15%);
+    height:300px;
+    width:100px;
+    display:inline-block;
+
+}
+#grad5{
+    background-image:conic-gradient(red,blue);
+    height:300px;
+    width:100px;
+    display:inline-block;
+}
+#grad6{
+    background-image:conic-gradient(blue 45deg,yellow 45deg,red 45deg,green 135deg);
+    height:300px;
+    width:100px;
+    display:inline-block;
+}
+#grad7{
+    background-image:repeating-conic-gradient(blue 5%,yellow 10%,red 5%,green 15%);
+    height:300px;
+    width:100px;
+    display:inline-block;
+}
+#grad8{
+        a:link
+    {
+        color:red;
+    }
+     a:visited
+     {
+        color:blue;
+     }
+     a:hover
+     {
+        color:yellow;
+     }
+     a:active
+     {
+        color:green;
+     }
+}

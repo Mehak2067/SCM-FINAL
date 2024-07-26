@@ -1,0 +1,32 @@
+.a{
+    font-size:1em;
+    color:brown;
+}
+.b{
+    font-size:1ch;
+    color:brown;
+}
+.c{
+    font-size:1ex;
+    color:brown;
+}
+.d{
+    font-size:1rem;
+    color:brown;
+}
+.e{
+    font-size:1vw;
+    color:brown;
+}
+.f{
+    font-size:1vh;
+    color:brown;
+}
+.g{
+    font-size:1vmin;
+    color:brown;
+}
+.h{
+    font-size:1vmax;
+    color:brown;
+}

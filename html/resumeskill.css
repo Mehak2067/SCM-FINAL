@@ -1,0 +1,33 @@
+.div1{
+    border:5px solid black;
+    height: 300px;
+    width: 1200px;
+    background-color:grey;
+}
+.div2{
+    color:navy;
+    background-color:grey;
+    border:1px solid black;
+}
+.div3{
+    display:flex;
+    float:right;
+    color:navy;
+}
+.div5{
+    color:navy;
+    background-color:grey;
+    border:1px solid black;
+}
+.div6{
+    color:navy;
+    display:flex;
+    float:right;
+}
+.div4{
+    color:navy;
+    background-color:grey;
+    border:1px solid black;
+}
+
+}

@@ -1,0 +1,49 @@
+Container for entire page
+#main{
+  width: 100%
+  display:flex;
+}
+
+Contact Info (Might have to add flex property here)
+#header{
+  border: 2px solid red;
+  text-align: center;
+}
+
+#summary{
+  border: 2px solid purple;
+  text-align: center;
+}
+Tech Skills Section
+I needed to add flex property to give children containers the flex ability
+.overview{
+  border: 2px solid orange;
+  justify-content: space-evenly;
+  display: flex;
+  flex-wrap: wrap;
+}
+/Overview for experience
+.overview-exp{
+  display: flex;
+  flex-wrap: wrap;
+  /justify-content: space-between;
+  border: 2px solid brown;
+}
+
+
+title for skills section
+.title{
+  border: 2px solid blue;
+  width: 100%;
+  text-align: center;
+}
+
+title for experience section
+.overview-exp .title{
+  text-align: left;
+  width: 100%;
+} 
+
+container for jobs qualified for
+.job-wanted{
+  border

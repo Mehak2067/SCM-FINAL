@@ -1,0 +1,23 @@
+.main{
+    background-color:grey;
+    display:inline-block;
+    border:2px solid black;
+    height: 200px;
+    width:900px;
+}
+.diva{
+    overflow-wrap:normal;
+    border:1px solid black;
+    display:inline-block;
+
+}
+.divb{
+    overflow-wrap:break-word;
+    border:1px solid black;
+    display:inline-block;
+}
+.divc{
+    overflow-wrap:anywhere;
+    border:1px solid black;
+    display:inline-block;
+}

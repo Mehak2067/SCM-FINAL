@@ -1,0 +1,36 @@
+.container{
+background-color:rgb(179,178,178)
+
+
+
+}  
+
+
+
+#h1{
+    color:aquamarine;
+    text-align:center;
+    font-size:50 px;
+}
+#nav{
+    color:black;
+    padding:30 px;
+}
+.shimla{
+    display:inline-block;
+    border:2 px solid black;
+    color:blueviolet;
+    font-family:bold,'Times New Roman','Times New Roman', Times, serif;
+}
+.goa{
+    display:inline-block;
+    border:2px solid black;
+    color:red;
+    font-family:bold,'Times New Roman','Times New Roman', Times, serif
+}
+.maldives{
+    display:inline-block;
+    border:2px solid black;
+    color:red;
+    font-family:bold,'Times New Roman','Times New Roman', Times, serif
+}

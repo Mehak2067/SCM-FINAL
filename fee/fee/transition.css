@@ -1,0 +1,51 @@
+
+.one{
+    height: 100px;
+    width:100px;
+    transition: width 5s;
+    transition-timing-function:linear;
+    background-color: antiquewhite;
+}
+.one:hover{
+    width:200px;
+}
+.two{
+    height: 100px;
+    width:100px;
+    transition: width 5s;
+    transition-timing-function:ease;
+    background-color: aqua;
+}
+.two:hover{
+    width:200px;
+}
+.three{
+    height: 100px;
+    width:100px;
+    transition: width 5s;
+    transition-timing-function:ease-in;
+    background-color: black;
+}
+.three:hover{
+    width:200px;
+}
+.four{
+    height: 100px;
+    width:100px;
+    transition: width 5s;
+    transition-timing-function:ease-in-out;
+    background-color: blueviolet;
+}
+.four:hover{
+    width:200px;
+}
+.five{
+    height: 100px;
+    width:100px;
+    transition: width 5s;
+    transition-timing-function:ease-out;
+    background-color: brown;
+}
+.five:hover{
+    width:200px;
+}

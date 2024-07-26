@@ -1,0 +1,18 @@
+.container{
+    background-color: beige;
+
+
+
+}
+.starbucks{
+    display:inline-block;
+    border:10px solid black;
+}
+.barista{
+    display:inline-block;
+    border:10px solid black;
+}
+.tim hortons{
+    display:inline-block;
+    border:10px solid black;
+}

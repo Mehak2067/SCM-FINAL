@@ -1,0 +1,77 @@
+@media screen and (max-width:991px)
+.div1{}
+h1{
+        color:navy;
+}
+h2{
+    color:rgb(14,117,151)
+}
+h3{
+    color:black;
+}
+#images{}
+.img1{
+    width:23%;
+    position:relative;
+    height:relative;
+    background-color:navy ;
+    background-size:cover;
+    transition:0.2s ease-out;
+    width:calc(50%-10px);
+
+}
+.img2{
+    width:23%;
+    position:relative;
+    height:relative;
+    background-color:navy ;
+    background-size:cover;
+    transition:0.2s ease-out;
+    width:calc(50%-10px);
+
+}
+.img3{
+    width:23%;
+    position:relative;
+    height:relative;
+    background-color:navy ;
+    background-size:cover;
+    transition:0.2s ease-out;
+    width:calc(50%-10px);
+}
+.img4{
+    width:23%;
+    position:relative;
+    height:relative;
+    background-color:navy ;
+    background-size:cover;
+    transition:0.2s ease-out;
+    width:calc(50%-10px);
+}
+.img5{
+    width:23%;
+    position:relative;
+    height:relative;
+    background-color:navy ;
+    background-size:cover;
+    transition:0.2s ease-out;
+    width:calc(50%-10px);
+}
+.img6{
+    width:23%;
+    position:relative;
+    height:relative;
+    background-color:navy ;
+    background-size:cover;
+    transition:0.2s ease-out;
+    width:calc(50%-10px);
+}
+.div2{
+    display:inline-flex;
+}
+.div3{
+    display:inline-flex;
+}
+.div1{
+    flex-direction: column;
+}
